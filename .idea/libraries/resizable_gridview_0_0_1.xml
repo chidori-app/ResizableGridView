@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="resizable-gridview-0.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/sample/build/intermediates/exploded-aar/jp.hitting.android/resizable-gridview/0.0.1/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/sample/build/intermediates/exploded-aar/jp.hitting.android/resizable-gridview/0.0.1/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
