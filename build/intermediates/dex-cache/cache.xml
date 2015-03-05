@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/hitting/git/ResizableGridView/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/hitting/git/ResizableGridView/app/build/intermediates/pre-dexed/release/internal_impl-21.0.3-cae96babacec712f385e0c3258a647f755f328b1.jar" />
+    </item>
+    <item
+        jar="/Users/hitting/git/ResizableGridView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/hitting/git/ResizableGridView/app/build/intermediates/pre-dexed/release/classes-9d6b9eb6811102f01c5fb1855feb83a8a8c53a95.jar" />
+    </item>
+    <item
+        jar="/Users/hitting/git/ResizableGridView/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/hitting/git/ResizableGridView/app/build/intermediates/pre-dexed/release/classes-48ff998825e5bf71eab3d72136aaa524d3e43ccd.jar" />
+    </item>
+    <item
+        jar="/Users/hitting/sdk/android/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/hitting/git/ResizableGridView/app/build/intermediates/pre-dexed/release/support-annotations-21.0.3-da06a98b6b8104e434a651d09ea60213e26ae6dc.jar" />
+    </item>
+
+</items>
