@@ -21,7 +21,7 @@ android {
 
 repositories {
     maven {
-        url 'http://chidori-app.github.com/ResizableGridView/repository'
+        url 'http://chidori-app.github.io/ResizableGridView/repository'
     }
 }
 
