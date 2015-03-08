@@ -2,7 +2,7 @@
 
 ResizableGridView is a library to change the number of columns by pinch in / out.
 
-![Screen Shot](https://raw.githubusercontent.com/chidori-app/ResizableGridView/master/imgs/anime.gif)
+![Screen Shot](https://raw.githubusercontent.com/chidori-app/ResizableGridView/master/imgs/anime.gif|width=300px)
 
 
 ## How To Get Started
@@ -12,7 +12,7 @@ ResizableGridView is a library to change the number of columns by pinch in / out
 ```gradle
 repositories {
     maven {
-        url 'http://chidori-app.github.com/ResizableGridView/repository'
+        url 'http://chidori-app.github.io/ResizableGridView/repository'
     }
 }
 
