@@ -83,9 +83,18 @@ public static interface ResizableGridViewListener {
 See the sample module.
 
 
+
+## Credits
+
+ResizableGridView was created by [IOKA Masakazu](http://www.hitting.jp) in the development of [Chidori](http://nscallop.jp/chidori/)
+
+ResizableGridView is used in [Chidori](http://nscallop.jp/chidori/), Android application.
+
+
+
 ## Contact
 
-Ask nscallop on Twitter (@nscallop)
+Ask nscallop on Twitter ([@nscallop](https://twitter.com/nscallop))
 
 
 
