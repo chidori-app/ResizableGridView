@@ -1,13 +1,10 @@
 package jp.hitting.android.view.sample;
 
-import java.util.ArrayList;
-import java.util.List;
+import android.app.Activity;
+import android.os.Bundle;
 
 import jp.hitting.android.view.ResizableGridView;
 import jp.hitting.android.view.ResizableGridView.ResizableGridViewListener;
-import android.app.Activity;
-import android.os.Bundle;
-import android.widget.ArrayAdapter;
 
 public class MainActivity extends Activity implements ResizableGridViewListener {
 
@@ -16,19 +13,8 @@ public class MainActivity extends Activity implements ResizableGridViewListener 
         super.onCreate(savedInstanceState);
         this.setContentView(R.layout.activity_main);
 
-        // set A to Z
-        final List<String> list = new ArrayList<String>();
-        char c = 'A';
-        for (int i = 0; i < 26; i++) {
-            list.add(String.valueOf((char) (c + i)));
-        }
-        ArrayAdapter<String> adapter = new ArrayAdapter<String>(
-                this.getApplicationContext(),
-                android.R.layout.simple_list_item_1, list);
-
-        ResizableGridView gridView = (ResizableGridView) this
-                .findViewById(R.id.gridView);
-        gridView.setAdapter(adapter);
+        ResizableGridView gridView = (ResizableGridView) this.findViewById(R.id.gridView);
+        gridView.setAdapter(new SampleAdapter(this));
         gridView.setListener(this);
     }
 
